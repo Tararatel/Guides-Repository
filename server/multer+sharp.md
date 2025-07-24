@@ -210,3 +210,4 @@ module.exports = app;
 ## Видеоинструкция
 
 <iframe width="560" height="315" src="https://youtu.be/KR4YTFL1c_0" frameborder="0" allowfullscreen></iframe>
+[![Подключаем Multer+Sharp в React приложение](https://i9.ytimg.com/vi_webp/KR4YTFL1c_0/maxresdefault.webp?v=68828ee8&sqp=COicisQG&rs=AOn4CLByS8hnBWRdn89Da17bwh64eC8zlg)](https://www.youtube.com/watch?v=KR4YTFL1c_0)
