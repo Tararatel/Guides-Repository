@@ -206,3 +206,7 @@ module.exports = app;
 ## Что ещё?
 
 1. **Дополнительные функции Sharp**: Например, можно изменить размер изображения с помощью `.resize({ width: 300 })`.
+
+## Видеоинструкция
+
+<iframe width="560" height="315" src="https://youtu.be/KR4YTFL1c_0" frameborder="0" allowfullscreen></iframe>
