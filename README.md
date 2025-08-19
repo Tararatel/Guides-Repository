@@ -24,6 +24,9 @@
 - [**React Hook Form**](./client/react-hook-form.md) — управление формами в React.
 - [**Zod**](./client/zod.md) — валидация данных.
 
+### DevOps
+- [**Backup DB**](./devops/backup_db.md) — Настройке автоматического бэкапа базы данных PostgreSQL.
+
 ### Разработка
 - [**GIT**](./development/git.md) — система контроля версий.
 
